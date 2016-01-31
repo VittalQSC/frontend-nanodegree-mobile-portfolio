@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5dbc3d3-c485-4ffc-a93f-7ee5fb0ea920" name="Default" comment="inline css">
+    <list default="true" id="e5dbc3d3-c485-4ffc-a93f-7ee5fb0ea920" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -27,10 +27,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3381555">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.27486438">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="45" />
               <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -204,7 +203,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454277368972</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="inline css">
+      <created>1454277923251</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1454277923251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -239,7 +244,8 @@
     <MESSAGE value="style and images compression" />
     <MESSAGE value="perfmatters compression" />
     <MESSAGE value="css compression" />
-    <option name="LAST_COMMIT_MESSAGE" value="css compression" />
+    <MESSAGE value="inline css" />
+    <option name="LAST_COMMIT_MESSAGE" value="inline css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -326,10 +332,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3381555">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.27486438">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="45" />
           <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
